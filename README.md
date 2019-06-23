@@ -1,3 +1,5 @@
+Note: Please refer the Citi Bike Analytics- ny.twb worbook for evaluation. I had issues loading the data after april so worked with smaller subset of data.
+
 # Tableau Assignment - Citi Bike Analytics
 
 ## Background
